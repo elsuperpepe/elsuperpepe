@@ -1,4 +1,4 @@
-Hi, I'm Eduardo Aleman! 🚀
+Hi, I'm Eduardo Aleman! 
 Software Analysis and Development Student (ADSO) | Python Automation Specialist | Cybersecurity Enthusiast
 
 I'm a developer based in Colombia with a B2 (Upper-Intermediate) English level. I specialize in building practical tools that save time and secure data. I don't just write code; I build solutions that optimize workflows.
