@@ -24,5 +24,3 @@ A project focused on identifying weak credentials and securing Linux environment
 
 Python Retro Game (Alien Invasion)
 A fun dive into logic and state management using Python.
-
-Colombia
